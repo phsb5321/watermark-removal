@@ -1,0 +1,38 @@
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+*.rej
+*.orig
+*.swp
+*.swo
+*.bak
+*.cache
+*.pyd
+*.log
+
+# Directories
+DATA/
+samples/
+*.egg/
+dist/
+build/
+.idea/
+*.egg-info/
+venv/
+.vscode/
+
+# Poetry files
+poetry.lock
+
+# OS-specific
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.cache
+Thumbs.db
+
+# Logs
+watermark_removal.log
